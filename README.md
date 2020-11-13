@@ -1,4 +1,4 @@
-# Chris Barker
+# Chris Barker ![Chris Barker](barker3.jpg){width=20%}
 
 Hi.  I'm a Professor of Linguistics at New York University.  You can email me at <chris.barker@nyu.edu>.
 
