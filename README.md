@@ -9,6 +9,6 @@ Here is [my CV](barker-cv.pdf), and here is my [Google Scholar web page](https:/
 **Teaching**: I developed and teach a general-education course called *Meaning*, which is part of the Texts and Ideas component of the Humanities CORE at NYU.  We engage with the work of Aristotle, Bacon, Wittgenstein, Grice, and many others.  Creating meaning is one of the supreme activities of the human species--but what, exactly, are we doing when we create meaning?  How should we think about meaning?  I also teach Introduction to Semantics in the Linguistics department, as well as courses and seminars at the graduate level.
 
 **Current Projects**: I've been working lately on scope, both on the theory of scope taking, and on the empirical landscape of scope islands.  See
-<https://cb125.github.io/scope-islands>.
+<https://github.com/cb125/scope-islands>.
 
 I'm rebuilding (November 2020) my professional web page (this page), please be patient...
