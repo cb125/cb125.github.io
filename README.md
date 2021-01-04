@@ -11,6 +11,6 @@ Here is [my CV](barker-cv.pdf), and here is my [Google Scholar web page](https:/
 * **Current Projects**:
   * I've been working lately on scope, both on the theory of scope taking, and on the empirical landscape of scope islands.  
     * My paper on scope islands is in press at *Linguistic Inquiry*.  Here is a preprint:  [Rethinking scope islands](https://github.com/cb125/scope-islands).
-    * I have a paper on the formal properties of Quantifier Raising, pubished in *Semantics and Pragmatics*.  Open-access version available here: [The logic of Quantifier Raising](https://doi.org/10.3765/sp.13.20). 
+    * I have a paper on the formal properties of Quantifier Raising, published in *Semantics and Pragmatics*.  Open-access version available here: [The logic of Quantifier Raising](https://doi.org/10.3765/sp.13.20). 
 
 I'm rebuilding (November 2020) my professional web page (this page), please be patient...
