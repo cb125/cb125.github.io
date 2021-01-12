@@ -11,7 +11,7 @@ Here is [my CV](barker-cv.pdf), and here is my [Google Scholar web page](https:/
 * **Current Projects**:
   * I've been working lately on scope, both on the theory of scope taking, and on the empirical landscape of scope islands.  
     * [Rethinking scope islands](https://github.com/cb125/scope-islands).  2021. In press at *Linguistic Inquiry*.  Contrary to the standard wisdom, abundant naturally-occuring data shows that clauses are not scope islands.
-    * [The logic of Quantifier Raising](https://doi.org/10.3765/sp.13.20).  2020. *Semantics and Pragmatics*.  The first study of the formal properties of Quantifier Raising.  I prove that QR is decidable, even in the presence of unrestricted type lifting.
-    * [NL-lambda, as the Logic of Scope and Movement](https://rdcu.be/cdsdC). 2019. *Journal of Logic, Language and Information* **28**, 217–237.  Decidability, interpolation, and soundness and completeness for a logic with Quantifier Raising and a unit, which can characterize both overt and covert movement.
+    * [The logic of Quantifier Raising](https://doi.org/10.3765/sp.13.20).  2020. *Semantics and Pragmatics*.  The first study of the formal properties of Quantifier Raising.  I show that QR is decidable, even in the presence of unrestricted type lifting.
+    * [NL-lambda as the Logic of Scope and Movement](https://rdcu.be/cdsdC). 2019. *Journal of Logic, Language and Information* **28**, 217–237.  Decidability, interpolation, and soundness and completeness proofs for a logic with Quantifier Raising and a unit, which can characterize both overt and covert movement.
 
 I'm rebuilding (November 2020) my professional web page (this page), please be patient...
