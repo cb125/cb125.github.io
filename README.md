@@ -22,7 +22,7 @@ Here is [my CV](barker-cv.pdf), and here is my [Google Scholar web page](https:/
   * Bumford, Dylan and Chris Barker. 2013. Association with distributivity and the problem of multiple antecedents for singular different. *Linguistics and Philosophy* 36.5: 355–369. doi:10.1007/s10988-013-9139-z
   * Scopability and Sluicing. 2013. *Linguistics and Philosophy*. 36.3:187–223. doi:10.1007/s10988-013-9137-1
   * Negotiating taste. *Inquiry* 56.2–3: 240–257. doi:10.1080/0020174x.2013.784482
-  * Quantificational binding does not require c-command. 2012. *Linguistic Inquiry* 43.4: 614–633. doi:10.1162/ling a 00108.
+  * Quantificational binding does not require c-command. 2012. *Linguistic Inquiry* 43.4: 614–633. doi:10.1162/ling_a_00108.
   * Imperatives denote actions. 2012. In Ana Aguilar Guevara, Anna Chernilovskaya, and Rick Nouwen (eds). *Proceedings of Sinn und Bedeutung 16, Volume 1*. MIT Working Papers in Linguistics. 57–70
   * Free choice permission as resource-sensitive reasoning. 2010. *Semantics and Pragmatics* 3.10: 1–38. doi:10.3765/sp.3.10
   * Cosubstitution, derivational locality, and quantifier scope. 2010. *Proceedings of TAG+10: The 10th International Conference on Tree Adjoining Grammars and Related Formalisms*.
