@@ -43,3 +43,5 @@ Here is [my CV](barker-cv.pdf), and here is my [Google Scholar web page](https:/
   * Group terms in English: representing groups as atoms. 1992. *Journal of Semantics* 9: 69–93. doi:10.1093/jos/9.1.69
 
 I'm rebuilding (November 2020) my professional web page (this page), please be patient...
+
+Older stuff: [an elementary lambda tutorial](lambda.html)
