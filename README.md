@@ -13,7 +13,7 @@ Here is [my CV](barker-cv.pdf), and here is my [Google Scholar web page](https:/
   * ***Graduate***:
     * **Keeping Track of Conversations: Scoreboards, Semantics and Psychology** (working title): in Spring 2022, Liz Camp, Andy Egan and I are teaching a joint Rutgers/NYU seminar rethinking the role of language in communication.  What's so special about truth, anyway?
     * **Dynamic Semantics**: I taught a seminar in spring of 2021 on Dynamic Semantics.  Course materials and a lightly annotated bibliography are available [here](https://github.com/cb125/Dynamics).  See also my new draft (just below).
-    * **Monads and all that**: Jim Pryor and my course on some beautiful and useful computational techniques [here](jimpryor.com).
+    * **Monads and all that**: Jim Pryor and my course on some beautiful and useful computational techniques [here](https://jimpryor.com).
 
 * **Current Projects**:
   * ***Dynamic Semantics***: This is a newly revised version of a paper I drafted in 2008.  It uses an innovative continuation-passing style transform to provide a minimal dynamic semantics on which dynamic effects depend only on truth conditions and order of evaluation.
