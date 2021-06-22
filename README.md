@@ -6,9 +6,17 @@ Here is [my CV](barker-cv.pdf), and here is my [Google Scholar web page](https:/
 
 * **Research**: I'm a semanticist, that is, I study natural language meaning.  These days I've been working on scope, dynamics, and update.  I love to talk to linguists, philosophers of language, and computer scientists, and I'm especially interested in adapting techniques from functional programming such as functors, monads, and continuations.   
 
-* **Teaching**: I developed and teach a general-education course called *Meaning*, which is part of the Texts and Ideas component of the Humanities CORE at NYU.  We engage with the work of Aristotle, Bacon, Wittgenstein, Grice, and many others.  Creating meaning is one of the supreme activities of the human species--but what, exactly, are we doing when we create meaning?  How should we think about meaning?  I also teach Introduction to Semantics in the Linguistics department, as well as courses and seminars at the graduate level.
+* **Teaching**: 
+  * ***Undergrad***: 
+    * **Meaning**: I developed and teach a general-education course called *Meaning*, which is part of the Texts and Ideas component of the Humanities CORE at NYU.  We engage with the work of Aristotle, Bacon, Wittgenstein, Grice, and many others.  Creating meaning is one of the supreme activities of the human species--but what, exactly, are we doing when we create meaning?  How should we think about meaning?  
+    * **Introduction to Semantics**: I also teach Introduction to Semantics in the Linguistics department, as well as courses and seminars at the graduate level.
+  * ***Graduate***:
+    * **Keeping Track of Conversations: Scoreboards, Semantics and Psychology** (working title): in Spring 2022, Liz Camp, Andy Egan and I are teaching a joint Rutgers/NYU seminar rethinking the role of language in communication.  What's so special about truth, anyway?
+    * **Dynamic Semantics**: I taught a seminar in spring of 2021 on Dynamic Semantics.  Course materials and a lightly annotated bibliography are available [here](https://github.com/cb125/Dynamics).  See also my new draft (just below).
+    * **Monads and all that**: Jim Pryor and my course on some beautiful and useful computational techniques [here](jimpryor.com).
 
 * **Current Projects**:
+  * ***Dynamic Semantics***: This is a newly revised version of a paper I drafted in 2008.  It uses an innovative continuation-passing style transform to provide a minimal dynamic semantics on which dynamic effects depend only on truth conditions and order of evaluation.
   * I've been working lately on scope, both on the theory of scope taking, and on the empirical landscape of scope islands.  
     * [Rethinking scope islands](https://www.mitpressjournals.org/doi/abs/10.1162/ling_a_00419).  2021. *Linguistic Inquiry*.  Contrary to the standard wisdom, abundant naturally-occuring data shows that clauses are not scope islands.  Preprint and Haskell code available [here](https://github.com/cb125/scope-islands).
     * [The logic of Quantifier Raising](https://doi.org/10.3765/sp.13.20).  2020. *Semantics and Pragmatics*, Early Access.  The first study of the formal properties of Quantifier Raising.  I show that QR is decidable, even in the presence of unrestricted type lifting.
