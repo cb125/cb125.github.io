@@ -9,7 +9,7 @@ Here is [my CV](barker-cv.pdf), and here is my [Google Scholar web page](https:/
 * **Teaching**: 
   * ***Undergrad***: 
     * **Meaning**: I developed and teach a general-education course called *Meaning*, which is part of the Texts and Ideas component of the Humanities CORE at NYU.  We engage with the work of Aristotle, Bacon, Wittgenstein, Grice, and many others.  Creating meaning is one of the supreme activities of the human species--but what, exactly, are we doing when we create meaning?  How should we think about meaning?  
-    * **Introduction to Semantics**: I also teach Introduction to Semantics in the Linguistics department, as well as courses and seminars at the graduate level.
+    * **Introduction to Semantics**: I also teach Introduction to Semantics in the Linguistics department.
   * ***Graduate***:
     * **Keeping Track of Conversations: Scoreboards, Semantics and Psychology** (working title): in Spring 2022, Liz Camp, Andy Egan and I are teaching a joint Rutgers/NYU seminar rethinking the role of language in communication.  What's so special about truth, anyway?
     * **Dynamic Semantics**: I taught a seminar in spring of 2021 on Dynamic Semantics.  Course materials and a lightly annotated bibliography are available [here](https://github.com/cb125/Dynamics).  See also my new draft (just below).
