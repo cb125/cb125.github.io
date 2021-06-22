@@ -16,8 +16,9 @@ Here is [my CV](barker-cv.pdf), and here is my [Google Scholar web page](https:/
     * **Monads and all that**: Jim Pryor and my course on some beautiful and useful computational techniques [here](http://www.jimpryor.net).
 
 * **Current Projects**:
-  * ***Dynamic Semantics***: This is a newly revised version of a paper I drafted in 2008.  It uses an innovative continuation-passing style transform to provide a minimal dynamic semantics on which dynamic effects depend only on truth conditions and order of evaluation.
-  * I've been working lately on scope, both on the theory of scope taking, and on the empirical landscape of scope islands.  
+  * ***Dynamic Semantics***
+    * [Composing local contexts](Papers/barker-local-contexts.pdf): This is a newly revised version of a paper I drafted in 2008.  It uses an innovative continuation-passing style transform to provide a minimal dynamic semantics on which dynamic effects depend only on truth conditions and order of evaluation.
+  * ***Scope***
     * [Rethinking scope islands](https://www.mitpressjournals.org/doi/abs/10.1162/ling_a_00419).  2021. *Linguistic Inquiry*.  Contrary to the standard wisdom, abundant naturally-occuring data shows that clauses are not scope islands.  Preprint and Haskell code available [here](https://github.com/cb125/scope-islands).
     * [The logic of Quantifier Raising](https://doi.org/10.3765/sp.13.20).  2020. *Semantics and Pragmatics*, Early Access.  The first study of the formal properties of Quantifier Raising.  I show that QR is decidable, even in the presence of unrestricted type lifting.
     * [NL-lambda as the Logic of Scope and Movement](https://rdcu.be/cdsdC). 2019. *Journal of Logic, Language and Information* **28**, 217–237.  Decidability, interpolation, and soundness and completeness proofs for a logic with Quantifier Raising and a unit, which can characterize both overt and covert movement.
