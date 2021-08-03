@@ -49,6 +49,7 @@ Here is [my CV](barker-cv.pdf), and here is my [Google Scholar web page](https:/
   * Presuppositions for Proportional Quantifiers. 1996. *Natural Language Semantics* 4:237–259. doi:10.1007/bf00372821
   * *Possessive Descriptions*. 1995. CSLI Press.
   * Chris Barker and David Dowty, Non-verbal thematic proto-roles. 1993. *Proceedings of NELS 23*, Amy Schafer (ed). GSLA, Amherst, 49–62.
+    * [Link to the NELS proceedings paper](https://scholarworks.umass.edu/nels/vol23/iss1/5) 
   * Group terms in English: representing groups as atoms. 1992. *Journal of Semantics* 9: 69–93. doi:10.1093/jos/9.1.69
 
 I'm rebuilding (November 2020) my professional web page (this page), please be patient...
