@@ -23,7 +23,7 @@ Here is [my CV](barker-cv.pdf), and here is my [Google Scholar web page](https:/
     * [The logic of Quantifier Raising](https://doi.org/10.3765/sp.13.20).  2020. *Semantics and Pragmatics*, Early Access.  The first study of the formal properties of Quantifier Raising.  I show that QR is decidable, even in the presence of unrestricted type lifting.
     * [NL-lambda as the Logic of Scope and Movement](https://rdcu.be/cdsdC). 2019. *Journal of Logic, Language and Information* **28**, 217–237.  Decidability, interpolation, and soundness and completeness proofs for a logic with Quantifier Raising and a unit, which can characterize both overt and covert movement.
 
-* **Selected Paeprs**:
+* **Selected Papers**:
   * Negative polarity as scope marking. 2018. *Linguistics and Philosophy* 41.5: 483–510. doi:10.1007/s10988-018-9234-2
   * Why relational nominals make good concealed questions. 2016. *Lingua* 182: 12–29. doi:10.1016/j.lingua.2016.01.002
   * Scope. In Shalom Lappin and Chris Fox (eds). 2015. *The Handbook of Contemporary Semantics, 2d edition*. Wiley-Blackwell. 47–87. doi:10.1002/9781118882139.ch2
