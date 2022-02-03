@@ -17,7 +17,7 @@ Here is [my CV](barker-cv.pdf), and here is my [Google Scholar web page](https:/
 
 * **Current Projects**:
   * ***Dynamic Semantics***
-    * [Composing local contexts](Papers/barker-composing-local-contexts.pdf): This is a newly revised version of a paper I drafted in 2008.  It uses an innovative continuation-passing style transform to provide a minimal dynamic semantics on which dynamic effects depend only on truth conditions and order of evaluation.
+    * [Composing local contexts](barker-composing-local-contexts.pdf): This is a newly revised version of a paper I drafted in 2008.  It uses an innovative continuation-passing style transform to provide a minimal dynamic semantics on which dynamic effects depend only on truth conditions and order of evaluation.
   * ***Scope***
     * [Rethinking scope islands](https://www.mitpressjournals.org/doi/abs/10.1162/ling_a_00419).  2021. *Linguistic Inquiry*.  Contrary to the standard wisdom, abundant naturally-occuring data shows that clauses are not scope islands.  Preprint and Haskell code available [here](https://github.com/cb125/scope-islands).
     * [The logic of Quantifier Raising](https://doi.org/10.3765/sp.13.20).  2020. *Semantics and Pragmatics*, Early Access.  The first study of the formal properties of Quantifier Raising.  I show that QR is decidable, even in the presence of unrestricted type lifting.
