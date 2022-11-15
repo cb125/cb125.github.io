@@ -2,6 +2,7 @@
 
 Hi.  I'm a Professor of Linguistics at New York University.  You can email me at <chris.barker@nyu.edu>.
 
+<img src="cb.jpb" width=50% height=50%>
 ![Sometimes I have a beard](cb.jpg | width=30)
 
 ![Sometimes I don't.](barker4.jpg | width = 30)
