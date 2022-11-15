@@ -2,8 +2,8 @@
 
 Hi.  I'm a Professor of Linguistics at New York University.  You can email me at <chris.barker@nyu.edu>.
 
-Sometimes I have a beard: <img src="/docs/assets/images/cb.jpg" width=15%>
-and sometimes I don't: <img src="/docs/assets/images/barker4.jpg" width=15%>
+Sometimes I have a beard: <img src="/docs/assets/images/cb.jpg" width=15%/>
+and sometimes I don't: <img src="/docs/assets/images/barker4.jpg" width=15%/>
 
 ![test](/docs/assets/images/cb.jpg){width=20%}
 
