@@ -5,7 +5,7 @@ Hi.  I'm a Professor of Linguistics at New York University.  You can email me at
 Sometimes I have a beard: <img src="/docs/assets/images/cb.jpg" width=15%>
 and sometimes I don't: <img src="/docs/assets/images/barker4.jpg" width=15%>
 
-[test](/docs/assets/images/cb.jpg)
+![test](/docs/assets/images/cb.jpg)
 
 Here is [my CV](barker-cv.pdf), and here is my [Google Scholar web page](https://scholar.google.com/citations?user=LnwVXPIAAAAJ).
 
