@@ -2,9 +2,9 @@
 
 Hi.  I'm a Professor of Linguistics at New York University.  You can email me at <chris.barker@nyu.edu>.
 
-![Sometimes I have a beard](barker5.jpg){width=30%}
+![Sometimes I have a beard](cb.jpg | width=30)
 
-![Sometimes I don't.](barker4.jpg){width=30%}
+![Sometimes I don't.](barker4.jpg | width = 30)
 
 Here is [my CV](barker-cv.pdf), and here is my [Google Scholar web page](https://scholar.google.com/citations?user=LnwVXPIAAAAJ).
 
