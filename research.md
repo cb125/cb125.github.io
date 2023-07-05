@@ -42,4 +42,4 @@ I'm a semanticist, that is, I study natural language meaning. These days I've be
     * [Link to the NELS proceedings paper](https://scholarworks.umass.edu/nels/vol23/iss1/5) 
   * Group terms in English: representing groups as atoms. 1992. *Journal of Semantics* 9: 69–93. doi:10.1093/jos/9.1.69
  
-![research](barker-research-outward.jpg)
+![research](https://cb125.github.io/docs/assets/images/barker-research-outward.jpg)
