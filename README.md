@@ -2,7 +2,9 @@
 
 Hi.  I'm a Professor of Linguistics at New York University.  You can email me at <chris.barker@nyu.edu>.
 
-![Chris Barker in 2023](/docs/assets/images/barker-2023.jpg =200x)
+<img src="https://cb125.github.io/doc/assets/image/barker-2023">
+
+![Chris Barker in 2023](/docs/assets/images/barker-2023.jpg)
 
 Here is [my CV](barker-cv.pdf), and here is my [Google Scholar web page](https://scholar.google.com/citations?user=LnwVXPIAAAAJ).
 
