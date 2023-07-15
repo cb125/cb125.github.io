@@ -10,3 +10,4 @@ Here is [my CV](barker-cv.pdf), and here is my [Google Scholar web page](https:/
 
 * [Teaching](teaching.md)
 
+* Email: <code>chris.barker@nyu.edu</code>
