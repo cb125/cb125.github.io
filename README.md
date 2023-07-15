@@ -1,8 +1,8 @@
 # Chris Barker 
 
-<img src="https://cb125.github.io/docs/assets/images/barker-2023.jpg" width="15%">
+Hi!  I'm a professor of Linguistics at New York University.
 
-Hi!  I'm a professor at New York University.  You can email me at chris.barker@nyu.edu
+<img src="https://cb125.github.io/docs/assets/images/barker-2023.jpg" width="25%">
 
 Here is [my CV](barker-cv.pdf), and here is my [Google Scholar web page](https://scholar.google.com/citations?user=LnwVXPIAAAAJ).
 
