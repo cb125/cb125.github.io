@@ -15,9 +15,9 @@ I'm a semanticist, that is, I study natural language meaning. These days I've be
 
 * **Selected Papers**:
   * [Negative polarity as scope marking](Papers/barker-negative-polarity-as-scope-marking-draft.pdf). 2018. *Linguistics and Philosophy* 41.5: 483–510. doi:10.1007/s10988-018-9234-2
-  * [Why relational nominals make good concealed questions](barker-concealed-questions.pdf). 2016. *Lingua* 182: 12–29. doi:10.1016/j.lingua.2016.01.002
-  * [Scope](barker-scope-handbook.pdf). In Shalom Lappin and Chris Fox (eds). 2015. *The Handbook of Contemporary Semantics, 2d edition*. Wiley-Blackwell. 47–87. doi:10.1002/9781118882139.ch2
-  * Barker, Chris and Chung-chieh Shan. 2014. [*Continuations and Natural Language.*](barker-shan-continuations-book.pdf) Oxford University Press.
+  * [Why relational nominals make good concealed questions](Papers/barker-concealed-questions.pdf). 2016. *Lingua* 182: 12–29. doi:10.1016/j.lingua.2016.01.002
+  * [Scope](Papers/barker-scope-handbook.pdf). In Shalom Lappin and Chris Fox (eds). 2015. *The Handbook of Contemporary Semantics, 2d edition*. Wiley-Blackwell. 47–87. doi:10.1002/9781118882139.ch2
+  * Barker, Chris and Chung-chieh Shan. 2014. [*Continuations and Natural Language.*](Papers/barker-shan-continuations-book.pdf) Oxford University Press.
   * Bumford, Dylan and Chris Barker. 2013. Association with distributivity and the problem of multiple antecedents for singular different. *Linguistics and Philosophy* 36.5: 355–369. doi:10.1007/s10988-013-9139-z
   * Scopability and Sluicing. 2013. *Linguistics and Philosophy*. 36.3:187–223. doi:10.1007/s10988-013-9137-1
   * Negotiating taste. *Inquiry* 56.2–3: 240–257. doi:10.1080/0020174x.2013.784482
