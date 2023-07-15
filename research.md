@@ -37,7 +37,7 @@ I'm a semanticist, that is, I study natural language meaning. These days I've be
   * [Individuation and Quantification](Papers/barker-individuation.pdf). 1999. *Linguistic Inquiry* 30.4:683–691. doi:10.1162/002438999554264
   * [Partitives, Double Genitives, and Anti-uniqueness](Papers/barker-partitives-nllt.pdf). 1998. *Natural Language and Linguistic Theory* 16:679–717. doi:10.1023/a:1005917421076
   * [Episodic *-ee* in English: A thematic role constraint on new word formation](Papers/barker-ee-lg.pdf). 1998. *Language* 74.4:695–727. doi:10.2307/417000
-  * Presuppositions for Proportional Quantifiers. 1996. *Natural Language Semantics* 4:237–259. doi:10.1007/bf00372821
+  * [Presuppositions for Proportional Quantifiers](Papers/barker-presuppositions-for-proportional-quantifiers.pdf). 1996. *Natural Language Semantics* 4:237–259. doi:10.1007/bf00372821
   * [*Possessive Descriptions*](Papers/barker-dissertation.pdf). 1995. CSLI Press.
   * Chris Barker and David Dowty. 1993. [Non-verbal thematic proto-roles](https://scholarworks.umass.edu/nels/vol23/iss1/5). *Proceedings of NELS 23*, Amy Schafer (ed). GSLA, Amherst, 49–62.
   * [Group terms in English: representing groups as atoms](Papers/barker-group-nouns-1992.pdf). 1992. *Journal of Semantics* 9: 69–93. doi:10.1093/jos/9.1.69
