@@ -29,6 +29,7 @@ I'm a semanticist, that is, I study natural language meaning. These days I've be
   * Chris Barker and Chung-chieh Shan. 2008. [Donkey anaphora is in-scope binding](https://semprag.org/index.php/sp/article/view/sp.1.1). *Semantics and Pragmatics* 1.1: 1–42. doi:10.3765/sp.1.1
   * [Parasitic Scope](Papers/barker-parasitic-scope.pdf). 2007. *Linguistics and Philosophy*. 30.4: 407–444. doi:10.1007/s10988-007-9021-y
   * [Direct Compositionality on Demand](Papers/barker-direct-compositionality-on-demand.pdf). 2007. In Chris Barker and Pauline Jacobson (eds). *Direct Compositionality*. Oxford University Press. 102–131.
+  * Chris Barker and Pauline Jacobson. 2007. [Introduction: Direct Compositionality](Papers/barker-jacobson-direct-compositionality-intro.pdf).  In Chris Barker and Pauline Jacobson (eds). *Direct Compositionality*. Oxford University Press.  
   * Chris Barker and Pauline Jacobson (eds). 2007. *Direct Compositionality*. Oxford University Press.
   * [Possessive weak definites](Papers/barker-weak-definites.pdf). In Kim, Ji-yung, Lander, Yury, and Partee, Barbara H. (eds). 2005. *Possessives and Beyond: Semantics and Syntax*. Amherst, MA: GLSA Publications. 89–113.
   * [Continuations and the nature of quantification](Papers/barker-continuations.pdf). 2002. *Natural Language Semantics* 10.3:211–242. doi:10.1023/a:1022183511876
