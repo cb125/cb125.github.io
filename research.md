@@ -14,7 +14,7 @@ I'm a semanticist, that is, I study natural language meaning. These days I've be
   * [NL-lambda as the Logic of Scope and Movement](https://rdcu.be/cdsdC). 2019. *Journal of Logic, Language and Information* **28**, 217–237.  Decidability, interpolation, and soundness and completeness proofs for a logic with Quantifier Raising and a unit, which can characterize both overt and covert movement.
 
 * **Selected Papers**:
-  * Negative polarity as scope marking. 2018. *Linguistics and Philosophy* 41.5: 483–510. doi:10.1007/s10988-018-9234-2
+  * [Negative polarity as scope marking](Papers/barker-negative-polarity-as-scope-marking-draft.pdf). 2018. *Linguistics and Philosophy* 41.5: 483–510. doi:10.1007/s10988-018-9234-2
   * Why relational nominals make good concealed questions. 2016. *Lingua* 182: 12–29. doi:10.1016/j.lingua.2016.01.002
   * Scope. In Shalom Lappin and Chris Fox (eds). 2015. *The Handbook of Contemporary Semantics, 2d edition*. Wiley-Blackwell. 47–87. doi:10.1002/9781118882139.ch2
   * Barker, Chris and Chung-chieh Shan. 2014. *Continuations and Natural Language.* Oxford University Press.
