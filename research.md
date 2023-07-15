@@ -13,7 +13,7 @@ I'm a semanticist, that is, I study natural language meaning. These days I've be
   * [The logic of Quantifier Raising](https://doi.org/10.3765/sp.13.20).  2020. *Semantics and Pragmatics*, 13.20.  The first study of the formal properties of Quantifier Raising.  I show that QR is decidable, even in the presence of unrestricted type lifting.  Surprizingly, QR with type lifting validates Hendriks' Flexible Montague Grammar type shifters.
   * [NL-lambda as the Logic of Scope and Movement](https://rdcu.be/cdsdC). 2019. *Journal of Logic, Language and Information* **28**, 217–237.  Decidability, interpolation, and soundness and completeness proofs for a logic with Quantifier Raising and a unit, which can characterize both overt and covert movement.
 
-* **Selected Papers**:
+* **Selected Works**:
   * [Negative polarity as scope marking](Papers/barker-negative-polarity-as-scope-marking-draft.pdf). 2018. *Linguistics and Philosophy* 41.5: 483–510. doi:10.1007/s10988-018-9234-2
   * [Why relational nominals make good concealed questions](Papers/barker-concealed-questions.pdf). 2016. *Lingua* 182: 12–29. doi:10.1016/j.lingua.2016.01.002
   * [Scope](Papers/barker-scope-handbook.pdf). In Shalom Lappin and Chris Fox (eds). 2015. *The Handbook of Contemporary Semantics, 2d edition*. Wiley-Blackwell. 47–87. doi:10.1002/9781118882139.ch2
