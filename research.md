@@ -31,7 +31,8 @@ I'm a semanticist, that is, I study natural language meaning. These days I've be
   * [Direct Compositionality on Demand](Papers/barker-direct-compositionality-on-demand.pdf). 2007. In Chris Barker and Pauline Jacobson (eds). *Direct Compositionality*. Oxford University Press. 102–131.
   * Chris Barker and Pauline Jacobson. 2007. [Introduction: Direct Compositionality](Papers/barker-jacobson-direct-compositionality-intro.pdf).  In Chris Barker and Pauline Jacobson (eds). *Direct Compositionality*. Oxford University Press.  
   * Chris Barker and Pauline Jacobson (eds). 2007. *Direct Compositionality*. Oxford University Press.
-  * [Possessive weak definites](Papers/barker-weak-definites.pdf). In Kim, Ji-yung, Lander, Yury, and Partee, Barbara H. (eds). 2005. *Possessives and Beyond: Semantics and Syntax*. Amherst, MA: GLSA Publications. 89–113.
+  * [Possessive weak definites](Papers/barker-weak-definites.pdf). 2005. In Kim, Ji-yung, Lander, Yury, and Partee, Barbara H. (eds). *Possessives and Beyond: Semantics and Syntax*. Amherst, MA: GLSA Publications. 89–113.
+  * [Continuations in Natural Language](Papers/barker-cw.pdf). In Hayo Thielecke (ed). Proceedings of the Fourth ACM SIGPLAN Continuations Workshop (CW’04). Technical Report CSR-04-1, School of Computer Science, University of Birmingham, Birmingham B15 2TT, United Kingdom. 1–11. [Written for computer scientists]
   * [Continuations and the nature of quantification](Papers/barker-continuations.pdf). 2002. *Natural Language Semantics* 10.3:211–242. doi:10.1023/a:1022183511876
   * [The Dynamics of Vagueness](Papers/barker-vagueness.pdf). 2002. *Linguistics and Philosophy* 25.1:1–36. doi:10.1023/a:1014346114955
   * [Individuation and Quantification](Papers/barker-individuation.pdf). 1999. *Linguistic Inquiry* 30.4:683–691. doi:10.1162/002438999554264
