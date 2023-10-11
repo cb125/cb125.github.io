@@ -23,6 +23,7 @@ I'm a semanticist, that is, I study natural language meaning. These days I've be
   * [Negotiating taste](Papers/barker-negotiating-taste.pdf). *Inquiry* 56.2–3: 240–257. doi:10.1080/0020174x.2013.784482
   * [Quantificational binding does not require c-command](Papers/barker-c-command.pdf). 2012. *Linguistic Inquiry* 43.4: 614–633. doi:10.1162/ling_a_00108.
   * [Imperatives denote actions](Papers/barker-actions.pdf). 2012. In Ana Aguilar Guevara, Anna Chernilovskaya, and Rick Nouwen (eds). *Proceedings of Sinn und Bedeutung 16, Volume 1*. MIT Working Papers in Linguistics. 57–70
+  * [Possessives and relational nouns](Papers/barker-possessives-and-relational-nouns-handbook.pdf). 2011. In von Heusinger, Maienborn, and Portner (eds). {\it Semantics: An International Handbook of Natural Language Meaning}. HSK 33.2. (Volume 2) Berlin: de Gruyter. 1108-–1129. \doi{10.1515/9783110255072.1109}.
   * [Free choice permission as resource-sensitive reasoning](https://semprag.org/index.php/sp/article/view/sp.3.10). 2010. *Semantics and Pragmatics* 3.10: 1–38. doi:10.3765/sp.3.10
   * [Cosubstitution, derivational locality, and quantifier scope](Papers/barker-cosubstitution.pdf). 2010. *Proceedings of TAG+10: The 10th International Conference on Tree Adjoining Grammars and Related Formalisms*.
   * [Clarity and the grammar of skepticism](Papers/barker-clarity.pdf). *Mind and Language* 24.3: 253–273. doi:10.1111/j.1468-0017.2009.01362.x
