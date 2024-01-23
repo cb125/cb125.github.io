@@ -8,8 +8,8 @@ Hi!  I'm a professor of Linguistics at New York University.
 
 * [Teaching](teaching.md)
 
-* [My CV](barker-cv.pdf)
+* [CV](barker-cv.pdf)
 
-* [My Google Scholar web page](https://scholar.google.com/citations?user=LnwVXPIAAAAJ)
+* [Google Scholar web page](https://scholar.google.com/citations?user=LnwVXPIAAAAJ)
 
 * Email: <code>chris.barker@nyu.edu</code>
