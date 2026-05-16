@@ -1,21 +1,24 @@
 # Research
 
-![research](https://cb125.github.io/docs/assets/images/barker-research.jpg)
-
-This is me doing research.
-
 I'm a semanticist, that is, I study natural language meaning. These days I've been working on scope, dynamics, and update. I talk to linguists, philosophers of language, and computer scientists, and I'm especially interested in adapting techniques from functional programming such as functors, monads, and continuations.
 
 
-* **Recent projects**:
-  * [Composing local contexts](barker-composing-local-contexts.pdf): This is a newly revised version of a paper I drafted in 2008.  It uses an innovative continuation-passing style transform to provide a minimal dynamic semantics on which dynamic effects depend only on truth conditions and order of evaluation.
-  * [Rethinking scope islands](https://www.mitpressjournals.org/doi/abs/10.1162/ling_a_00419).  2021. *Linguistic Inquiry*.  Contrary to the standard wisdom, abundant naturally-occuring data shows that clauses are not scope islands.  [Preprint](Papers/barker-rethinking-scope-islands.pdf); preprint and Haskell code available [here](https://github.com/cb125/scope-islands).
-  * [The logic of Quantifier Raising](https://doi.org/10.3765/sp.13.20).  2020. *Semantics and Pragmatics*, 13.20.  The first study of the formal properties of Quantifier Raising.  I show that QR is decidable, even in the presence of unrestricted type lifting.  Surprisingly, QR with type lifting validates Hendriks' Flexible Montague Grammar type shifters.
-  * [NL-lambda as the Logic of Scope and Movement](https://rdcu.be/cdsdC). 2019. *Journal of Logic, Language and Information* **28**, 217–237.  Decidability, interpolation, and soundness and completeness proofs for a logic with Quantifier Raising and a unit, which can characterize both overt and covert movement.
+**Selected works**:
 
-* **Selected Works**:
-  * [Negative polarity as scope marking](Papers/barker-negative-polarity-as-scope-marking-draft.pdf). 2018. *Linguistics and Philosophy* 41.5: 483–510. doi:10.1007/s10988-018-9234-2
-  * [Why relational nominals make good concealed questions](Papers/barker-concealed-questions.pdf). 2016. *Lingua* 182: 12–29. doi:10.1016/j.lingua.2016.01.002
+**2026** [Scope](barker-scope-2026.pdf). To appear in *Annual Review of Linguistics*.
+  
+**2022**  [Composing local contexts](barker-composing-local-contexts.pdf). *Journal of Semantics*. 
+
+**2021** [Rethinking scope islands](Papers/barker-rethinking-scope-islands.pdf). *Linguistic Inquiry*.
+
+**2022** [The logic of Quantifier Raising](https://doi.org/10.3765/sp.13.20).  *Semantics and Pragmatics*, 13.20.  
+
+**2029** [NL-lambda as the Logic of Scope and Movement](https://rdcu.be/cdsdC). 2019. *Journal of Logic, Language and Information* 28: 217–237.  
+
+**2018** [Negative polarity as scope marking](Papers/barker-negative-polarity-as-scope-marking-draft.pdf). *Linguistics and Philosophy* 41.5: 483–510. doi:10.1007/s10988-018-9234-2
+
+**2016** [Why relational nominals make good concealed questions](Papers/barker-concealed-questions.pdf). *Lingua* 182: 12–29. doi:10.1016/j.lingua.2016.01.002
+
   * [Scope](Papers/barker-scope-handbook.pdf). In Shalom Lappin and Chris Fox (eds). 2015. *The Handbook of Contemporary Semantics, 2d edition*. Wiley-Blackwell. 47–87. doi:10.1002/9781118882139.ch2
   * Barker, Chris and Chung-chieh Shan. 2014. [*Continuations and Natural Language.*](Papers/barker-shan-continuations-book.pdf) Oxford University Press.
   * Bumford, Dylan and Chris Barker. 2013. [Association with distributivity and the problem of multiple antecedents for singular *different*](Papers/bumford-barker-association-with-distributivity.pdf). *Linguistics and Philosophy* 36.5: 355–369. doi:10.1007/s10988-013-9139-z
@@ -43,5 +46,8 @@ I'm a semanticist, that is, I study natural language meaning. These days I've be
   * [*Possessive Descriptions*](Papers/barker-dissertation.pdf). 1995. CSLI Press.
   * Chris Barker and David Dowty. 1993. [Non-verbal thematic proto-roles](https://scholarworks.umass.edu/nels/vol23/iss1/5). *Proceedings of NELS 23*, Amy Schafer (ed). GSLA, Amherst, 49–62.
   * [Group terms in English: representing groups as atoms](Papers/barker-group-nouns-1992.pdf). 1992. *Journal of Semantics* 9: 69–93. doi:10.1093/jos/9.1.69
- 
+
+This is me doing research:
+
+![research](https://cb125.github.io/docs/assets/images/barker-research.jpg)
 ![research](https://cb125.github.io/docs/assets/images/barker-research-outward.jpg)
