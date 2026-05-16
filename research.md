@@ -19,15 +19,24 @@ I'm a semanticist, that is, I study natural language meaning. These days I've be
 
 **2016** [Why relational nominals make good concealed questions](Papers/barker-concealed-questions.pdf). *Lingua* 182: 12–29. doi:10.1016/j.lingua.2016.01.002
 
-  * [Scope](Papers/barker-scope-handbook.pdf). In Shalom Lappin and Chris Fox (eds). 2015. *The Handbook of Contemporary Semantics, 2d edition*. Wiley-Blackwell. 47–87. doi:10.1002/9781118882139.ch2
-  * Barker, Chris and Chung-chieh Shan. 2014. [*Continuations and Natural Language.*](Papers/barker-shan-continuations-book.pdf) Oxford University Press.
-  * Bumford, Dylan and Chris Barker. 2013. [Association with distributivity and the problem of multiple antecedents for singular *different*](Papers/bumford-barker-association-with-distributivity.pdf). *Linguistics and Philosophy* 36.5: 355–369. doi:10.1007/s10988-013-9139-z
-  * [Scopability and Sluicing](Papers/barker-sluicing-preprint.pdf). 2013. *Linguistics and Philosophy*. 36.3:187–223. doi:10.1007/s10988-013-9137-1
-  * [Negotiating taste](Papers/barker-negotiating-taste.pdf). *Inquiry* 56.2–3: 240–257. doi:10.1080/0020174x.2013.784482
-  * [Quantificational binding does not require c-command](Papers/barker-c-command.pdf). 2012. *Linguistic Inquiry* 43.4: 614–633. doi:10.1162/ling_a_00108.
-  * [Imperatives denote actions](Papers/barker-actions.pdf). 2012. In Ana Aguilar Guevara, Anna Chernilovskaya, and Rick Nouwen (eds). *Proceedings of Sinn und Bedeutung 16, Volume 1*. MIT Working Papers in Linguistics. 57–70
-  * [Possessives and relational nouns](Papers/barker-possessives-and-relational-nouns-handbook.pdf). 2011. In von Heusinger, Maienborn, and Portner (eds). *Semantics: An International Handbook of Natural Language Meaning*. HSK 33.2 (Volume 2). Berlin: de Gruyter. 1108-–1129. doi:10.1515/9783110255072.1109.
-  * [Free choice permission as resource-sensitive reasoning](https://semprag.org/index.php/sp/article/view/sp.3.10). 2010. *Semantics and Pragmatics* 3.10: 1–38. doi:10.3765/sp.3.10
+**2015** [Scope](Papers/barker-scope-handbook.pdf). In Shalom Lappin and Chris Fox (eds). *The Handbook of Contemporary Semantics, 2d edition*. Wiley-Blackwell. 47–87. doi:10.1002/9781118882139.ch2
+
+**2014** Barker, Chris and Chung-chieh Shan. [*Continuations and Natural Language.*](Papers/barker-shan-continuations-book.pdf) Oxford University Press.
+
+**2013** Bumford, Dylan and Chris Barker. [Association with distributivity and the problem of multiple antecedents for singular *different*](Papers/bumford-barker-association-with-distributivity.pdf). *Linguistics and Philosophy* 36.5: 355–369. doi:10.1007/s10988-013-9139-z
+
+**2013** [Scopability and Sluicing](Papers/barker-sluicing-preprint.pdf). *Linguistics and Philosophy*. 36.3:187–223. doi:10.1007/s10988-013-9137-1
+
+**2013** [Negotiating taste](Papers/barker-negotiating-taste.pdf). *Inquiry* 56.2–3: 240–257. doi:10.1080/0020174x.2013.784482
+
+**2012** [Quantificational binding does not require c-command](Papers/barker-c-command.pdf). *Linguistic Inquiry* 43.4: 614–633. doi:10.1162/ling_a_00108.
+
+**2012** [Imperatives denote actions](Papers/barker-actions.pdf). In Ana Aguilar Guevara, Anna Chernilovskaya, and Rick Nouwen (eds). *Proceedings of Sinn und Bedeutung 16, Volume 1*. MIT Working Papers in Linguistics. 57–70
+
+**2011** [Possessives and relational nouns](Papers/barker-possessives-and-relational-nouns-handbook.pdf). In von Heusinger, Maienborn, and Portner (eds). *Semantics: An International Handbook of Natural Language Meaning*. HSK 33.2 (Volume 2). Berlin: de Gruyter. 1108-–1129. doi:10.1515/9783110255072.1109.
+
+**2010**  [Free choice permission as resource-sensitive reasoning](https://semprag.org/index.php/sp/article/view/sp.3.10). *Semantics and Pragmatics* 3.10: 1–38. doi:10.3765/sp.3.10
+
   * [Cosubstitution, derivational locality, and quantifier scope](Papers/barker-cosubstitution.pdf). 2010. *Proceedings of TAG+10: The 10th International Conference on Tree Adjoining Grammars and Related Formalisms*.
   * [Clarity and the grammar of skepticism](Papers/barker-clarity.pdf). *Mind and Language* 24.3: 253–273. doi:10.1111/j.1468-0017.2009.01362.x
   * Chris Barker and Chung-chieh Shan. 2008. [Donkey anaphora is in-scope binding](https://semprag.org/index.php/sp/article/view/sp.1.1). *Semantics and Pragmatics* 1.1: 1–42. doi:10.3765/sp.1.1
