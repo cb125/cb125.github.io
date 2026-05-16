@@ -37,24 +37,41 @@ I'm a semanticist, that is, I study natural language meaning. These days I've be
 
 **2010**  [Free choice permission as resource-sensitive reasoning](https://semprag.org/index.php/sp/article/view/sp.3.10). *Semantics and Pragmatics* 3.10: 1–38. doi:10.3765/sp.3.10
 
-  * [Cosubstitution, derivational locality, and quantifier scope](Papers/barker-cosubstitution.pdf). 2010. *Proceedings of TAG+10: The 10th International Conference on Tree Adjoining Grammars and Related Formalisms*.
-  * [Clarity and the grammar of skepticism](Papers/barker-clarity.pdf). *Mind and Language* 24.3: 253–273. doi:10.1111/j.1468-0017.2009.01362.x
-  * Chris Barker and Chung-chieh Shan. 2008. [Donkey anaphora is in-scope binding](https://semprag.org/index.php/sp/article/view/sp.1.1). *Semantics and Pragmatics* 1.1: 1–42. doi:10.3765/sp.1.1
-  * [Parasitic Scope](Papers/barker-parasitic-scope.pdf). 2007. *Linguistics and Philosophy*. 30.4: 407–444. doi:10.1007/s10988-007-9021-y
-  * [Direct Compositionality on Demand](Papers/barker-direct-compositionality-on-demand.pdf). 2007. In Chris Barker and Pauline Jacobson (eds). *Direct Compositionality*. Oxford University Press. 102–131.
-  * Chris Barker and Pauline Jacobson. 2007. [Introduction: Direct Compositionality](Papers/barker-jacobson-direct-compositionality-intro.pdf).  In Chris Barker and Pauline Jacobson (eds). *Direct Compositionality*. Oxford University Press.  
-  * Chris Barker and Pauline Jacobson (eds). 2007. *Direct Compositionality*. Oxford University Press.
-  * [Possessive weak definites](Papers/barker-weak-definites.pdf). 2005. In Kim, Ji-yung, Lander, Yury, and Partee, Barbara H. (eds). *Possessives and Beyond: Semantics and Syntax*. Amherst, MA: GLSA Publications. 89–113.
-  * [Continuations in Natural Language](Papers/barker-cw.pdf). In Hayo Thielecke (ed). Proceedings of the Fourth ACM SIGPLAN Continuations Workshop (CW’04). Technical Report CSR-04-1, School of Computer Science, University of Birmingham, Birmingham B15 2TT, United Kingdom. 1–11. [Written for computer scientists]
-  * [Continuations and the nature of quantification](Papers/barker-continuations.pdf). 2002. *Natural Language Semantics* 10.3:211–242. doi:10.1023/a:1022183511876
-  * [The Dynamics of Vagueness](Papers/barker-vagueness.pdf). 2002. *Linguistics and Philosophy* 25.1:1–36. doi:10.1023/a:1014346114955
-  * [Individuation and Quantification](Papers/barker-individuation.pdf). 1999. *Linguistic Inquiry* 30.4:683–691. doi:10.1162/002438999554264
-  * [Partitives, Double Genitives, and Anti-uniqueness](Papers/barker-partitives-nllt.pdf). 1998. *Natural Language and Linguistic Theory* 16:679–717. doi:10.1023/a:1005917421076
-  * [Episodic *-ee* in English: A thematic role constraint on new word formation](Papers/barker-ee-lg.pdf). 1998. *Language* 74.4:695–727. doi:10.2307/417000
-  * [Presuppositions for Proportional Quantifiers](Papers/barker-presuppositions-for-proportional-quantifiers.pdf). 1996. *Natural Language Semantics* 4:237–259. doi:10.1007/bf00372821
-  * [*Possessive Descriptions*](Papers/barker-dissertation.pdf). 1995. CSLI Press.
-  * Chris Barker and David Dowty. 1993. [Non-verbal thematic proto-roles](https://scholarworks.umass.edu/nels/vol23/iss1/5). *Proceedings of NELS 23*, Amy Schafer (ed). GSLA, Amherst, 49–62.
-  * [Group terms in English: representing groups as atoms](Papers/barker-group-nouns-1992.pdf). 1992. *Journal of Semantics* 9: 69–93. doi:10.1093/jos/9.1.69
+**2020** [Cosubstitution, derivational locality, and quantifier scope](Papers/barker-cosubstitution.pdf). *Proceedings of TAG+10: The 10th International Conference on Tree Adjoining Grammars and Related Formalisms*.
+
+**2013** [Clarity and the grammar of skepticism](Papers/barker-clarity.pdf). *Mind and Language* 24.3: 253–273. doi:10.1111/j.1468-0017.2009.01362.x
+
+**2008** Chris Barker and Chung-chieh Shan. [Donkey anaphora is in-scope binding](https://semprag.org/index.php/sp/article/view/sp.1.1). *Semantics and Pragmatics* 1.1: 1–42. doi:10.3765/sp.1.1
+
+**2007** [Parasitic Scope](Papers/barker-parasitic-scope.pdf). *Linguistics and Philosophy*. 30.4: 407–444. doi:10.1007/s10988-007-9021-y
+
+**2007** [Direct Compositionality on Demand](Papers/barker-direct-compositionality-on-demand.pdf). In Chris Barker and Pauline Jacobson (eds). *Direct Compositionality*. Oxford University Press. 102–131.
+
+**2007** Chris Barker and Pauline Jacobson. [Introduction: Direct Compositionality](Papers/barker-jacobson-direct-compositionality-intro.pdf).  In Chris Barker and Pauline Jacobson (eds). *Direct Compositionality*. Oxford University Press.  
+
+**2007** Chris Barker and Pauline Jacobson (eds). *Direct Compositionality*. Oxford University Press.
+
+**2005** [Possessive weak definites](Papers/barker-weak-definites.pdf). In Kim, Ji-yung, Lander, Yury, and Partee, Barbara H. (eds). *Possessives and Beyond: Semantics and Syntax*. Amherst, MA: GLSA Publications. 89–113.
+
+**2004** [Continuations in Natural Language](Papers/barker-cw.pdf). In Hayo Thielecke (ed). Proceedings of the Fourth ACM SIGPLAN Continuations Workshop (CW’04). Technical Report CSR-04-1, School of Computer Science, University of Birmingham, Birmingham B15 2TT, United Kingdom. 1–11. [Written for computer scientists]
+
+**2002** [Continuations and the nature of quantification](Papers/barker-continuations.pdf). *Natural Language Semantics* 10.3:211–242. doi:10.1023/a:1022183511876
+
+**2002** [The Dynamics of Vagueness](Papers/barker-vagueness.pdf). *Linguistics and Philosophy* 25.1:1–36. doi:10.1023/a:1014346114955
+
+**1999** [Individuation and Quantification](Papers/barker-individuation.pdf). *Linguistic Inquiry* 30.4:683–691. doi:10.1162/002438999554264
+
+**1998** [Partitives, Double Genitives, and Anti-uniqueness](Papers/barker-partitives-nllt.pdf). *Natural Language and Linguistic Theory* 16:679–717. doi:10.1023/a:1005917421076
+
+**1998** [Episodic *-ee* in English: A thematic role constraint on new word formation](Papers/barker-ee-lg.pdf). *Language* 74.4:695–727. doi:10.2307/417000
+
+**1996** [Presuppositions for Proportional Quantifiers](Papers/barker-presuppositions-for-proportional-quantifiers.pdf). *Natural Language Semantics* 4:237–259. doi:10.1007/bf00372821
+
+**1995** [*Possessive Descriptions*](Papers/barker-dissertation.pdf). CSLI Press.
+
+**1993** Chris Barker and David Dowty. [Non-verbal thematic proto-roles](https://scholarworks.umass.edu/nels/vol23/iss1/5). *Proceedings of NELS 23*, Amy Schafer (ed). GSLA, Amherst, 49–62.
+
+**1992** [Group terms in English: representing groups as atoms](Papers/barker-group-nouns-1992.pdf). *Journal of Semantics* 9: 69–93. doi:10.1093/jos/9.1.69
 
 This is me doing research:
 
