@@ -2,7 +2,7 @@
 
 Hi!  I'm a professor of Linguistics at New York University.
 
-<img src="https://cb125.github.io/docs/assets/images/barker4.png" width="25%">
+<img src="https://cb125.github.io/docs/assets/images/barker5.jpg" width="25%">
 
 * [Research and publications](research.md)
 
